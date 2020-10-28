@@ -51,8 +51,10 @@ We have a title that is too long, and want to wrap it after 40 characters (the d
 ```
 
 We can store the string in local  title, and specify when it will wrap:
-        .  wrap "The quick brown fox jumps over the laxy dog.", local(title) at(20)
-        .  twoway scatter price mpg, title(`title')
+```
+  .  wrap "The quick brown fox jumps over the laxy dog.", local(title) at(20)
+  .  twoway scatter price mpg, title(`title')
+```
 
 ## Stored results
 
