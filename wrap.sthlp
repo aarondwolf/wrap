@@ -34,30 +34,30 @@ using compound double quotes.
 
 {pstd}
 If {opth local(name)} is specified, the command will store the string in
-local {it: name}. 
+local {it: name}.
 
-title:Examples}
+{title:Examples}
 
 {pstd}
 Load auto data:
 
         {cmd:.} {cmd: sysuse auto, clear}
-		
+
 {pstd}
 We have a title that is too long, and want to wrap it after 40 characters:
 
 	{cmd:.} {cmd: wrap "The quick brown fox jumps over the laxy dog."}
-		
+
 {pstd}
 We can now use this in a graph:
-	
+
 	{cmd:.} {cmd: twoway scatter price mpg, title(`r(name)')}
-	
+
 We can store the string in local {it: title}, and specify when it will wrap:
-	
+
 	{cmd:.} {cmd: wrap "The quick brown fox jumps over the laxy dog.", local(title) at(20)}
 	{cmd:.} {cmd: twoway scatter price mpg, title(`title')}
-	
+
 {title:Stored results}
 
 {pstd}
@@ -79,18 +79,5 @@ We can store the string in local {it: title}, and specify when it will wrap:
 {title:Acknowledgements}
 
 {pstd}
-{cmd:wrap} was inspired by an answer on Statlist by Scott Merryman to a 
+{cmd:wrap} was inspired by an answer on Statlist by Scott Merryman to a
 similar question: https://www.stata.com/statalist/archive/2007-03/msg00778.html
-
-
-
-
-
-
-
-
-
-
-
-
-
