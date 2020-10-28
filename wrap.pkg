@@ -1,5 +1,5 @@
 v 1.0.1
-d tabgen.  A simple Stata program to wrap text for titles and labels.
+d wrap.  A simple Stata program to wrap text for titles and labels.
 d Created by Aaron Wolf (aaron.wolf@yale.edu)
 d
 
