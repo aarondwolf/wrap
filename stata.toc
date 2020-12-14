@@ -1,8 +1,8 @@
-v 1.0.1
+v 2.0.1
 d Created by Aaron Wolf (aaron.wolf@yale.edu)
 
 d 	Installation instructions:
 d	net install wrap, from("https://aarondwolf.github.io/wrap/") replace
 d
 
-p wrap  A simple Stata program to wrap text for titles and labels.
+p wrap  Wrap text for titles and labels.
