@@ -159,8 +159,8 @@ You can use this to create wrapped labels for use with {help graph bar}:
 
 {title:Author}
 
-{pstd}Aaron Wolf, Yale University {p_end}
-{pstd}aaron.wolf@yale.edu{p_end}
+{pstd}Aaron Wolf, Northwestern University {p_end}
+{pstd}aaron.wolf@u.northwestern.edu{p_end}
 
 {title:Acknowledgements}
 

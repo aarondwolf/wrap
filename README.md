@@ -159,8 +159,8 @@ Macros
 
 ## Author
 
-Aaron Wolf, Yale University
-aaron.wolf@yale.edu
+Aaron Wolf, Northwestern University
+aaron.wolf@u.northwestern.edu
 
 ## Acknowledgements
 

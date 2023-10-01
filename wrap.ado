@@ -1,4 +1,4 @@
-*! version 2.0.1  14dec2020 Aaron Wolf, aaron.wolf@yale.edu	
+*! version 2.0.1  14dec2020 Aaron Wolf, aaron.wolf@u.northwestern.edu	
 cap program drop wrap
 program define wrap, rclass
 		

@@ -1,5 +1,5 @@
 v 2.0.1
-d Created by Aaron Wolf (aaron.wolf@yale.edu)
+d Created by Aaron Wolf (aaron.wolf@u.northwestern.edu)
 
 d 	Installation instructions:
 d	net install wrap, from("https://aarondwolf.github.io/wrap/") replace
